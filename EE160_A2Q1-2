@@ -1,0 +1,7 @@
+ten_thousand = 10000 # setting variable 'ten_thousand' to value 10000
+
+three = 3 # setting variable 'three' to value 3
+
+zero = 0 # setting variable 'zero' to value 0
+
+print (ten_thousand + three) # printing the sum of variables ten_thousand and three. If we try to divide by zero, we get the error 'division by zero'
