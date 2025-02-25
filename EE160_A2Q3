@@ -1,0 +1,9 @@
+yah = "hello" # setting variable 'yah' to the string "hello"
+
+yeet = "world" # setting variable 'yeet' to the string "world"
+
+space = " " # setting the variable 'space' to the string " "
+
+exclamation_point = "!" # setting the variable 'exclamation_point' to "!"
+
+print (yah+space+yeet+exclamation_point) # printing the sum of the the four varaibles as a string. If we try to use any other operation besides addition with variables that are strings then we get the error 'unsupported operand type(s) for '
