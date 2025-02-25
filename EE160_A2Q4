@@ -1,0 +1,3 @@
+three = float(3) # setting an integer value to a float
+
+print (three) # If we try to change a string to a float, we get the error 'invalid syntax.'
